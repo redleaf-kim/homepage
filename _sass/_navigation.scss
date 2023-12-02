@@ -123,11 +123,15 @@
   /* next/previous buttons */
   &--pager {
     display: block;
-    padding: 1em 2em;
+    // padding: 1em 2em;
+    // float: left;
+    padding: 0.5em 1em; /* 패딩을 줄입니다 */
     float: left;
-    width: 50%;
+    width: 30%; /* 너비를 줄입니다 */
+    // width: 50%;
     font-family: $sans-serif;
-    font-size: $type-size-5;
+    // font-size: $type-size-5;
+    font-size: $type-size-6;
     font-weight: bold;
     text-align: center;
     text-decoration: none;
