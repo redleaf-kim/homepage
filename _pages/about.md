@@ -9,7 +9,12 @@ redirect_from:
 ---
 
 ## About me
-Hello, I am a freshman M.S. student at SKKU (Sungkyunkwan University) majoring in Immersive Media Engineering. I firmly believe that the future of AI should not only focus on single modality but also embrace a multi-modal approach by integrating complementary data types. This conviction is why I am deeply interested in multi-modal research, exploring how these diverse data dimensions can synergistically enhance the power of AI to tackle real-world scenarios. Additionally, I am intrigued by parameter-efficient learning, recognizing its critical role in developing more scalable, sustainable, and secure AI models.
+Hello, I am a freshman M.S. student at SKKU (Sungkyunkwan University) majoring in Immersive Media Engineering. 
+I firmly believe that the future of AI should not only focus on single modality but also embrace a multi-modal approach by integrating complementary data types. 
+This conviction is why I am deeply interested in multi-modal research, exploring how these diverse data dimensions can synergistically enhance the power of AI to tackle real-world scenarios. 
+Additionally, I am intrigued by parameter-efficient learning, recognizing its critical role in developing more scalable, sustainable, and secure AI models.
+
+If you want to know more about me, please check my [CV](../files/HongyeobKim_CV.pdf).
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fredleaf-kim.github.io&count_bg=%23181919&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=blog&edge_flat=false)](https://redleaf-kim.github.io) &nbsp;/&nbsp;
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fredleaf-kim&count_bg=%23393633&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=github&edge_flat=false)](https://github.com/redleaf-kim) &nbsp;/&nbsp;
