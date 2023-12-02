@@ -105,6 +105,12 @@
   .page__meta {
     margin: 0 0 4px;
   }
+  
+  .page__date strong,
+  .page__date time {
+    font-size: 0.9em; /* 이 선택자는 <strong>와 <time> 태그에만 적용됩니다 */
+  }
+
 }
 
 

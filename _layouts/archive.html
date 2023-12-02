@@ -17,8 +17,55 @@ layout: default
 
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 class="page__title">{{ page.title }}</h1>
+      <h3 class="page__title">{{ page.title }}</h3>
     {% endunless %}
     {{ content }}
   </div>
 </div>
+
+
+
+<!--<div class="container">-->
+<!--  <h3 class="title"><a href="../posts/2023/2023-12-03.md" style="text-decoration: none; color: inherit;">Test Post</a></h3>-->
+<!--  <p class="metadata">-->
+<!--    <span>🗓 January 14, 2022</span> •-->
+<!--    <span>⏱ 12 minute read</span>-->
+<!--  </p>-->
+<!--  <div class="content">-->
+<!--    <p>Moon Ye-Bin, Jisoo Kim, <strong>Hongyeob Kim</strong>, Kilho Son, Tae-Hyun Oh</p>-->
+<!--    <ul>-->
+<!--      <li>Propose a text-driven manifold augmentation method that semantically enriches visual feature spaces, regardless of data distribution</li>-->
+<!--      <li>Accepted to International Conference on Computer Vision (ICCV) 2023-->
+<!--          <a href="https://textmania.github.io/" target="_blank">[Project]</a>-->
+<!--          <a href="https://arxiv.org/abs/2307.14611" target="_blank">[arXiv]</a>-->
+<!--      </li>-->
+<!--    </ul>-->
+<!--  </div>-->
+<!--</div>-->
+
+
+
+<style>
+  .container {
+    font-family: Arial, sans-serif; /* 글꼴 스타일 지정 */
+    margin-bottom: 20px;
+  }
+  .title {
+    font-size: 1em; /* 제목의 글자 크기를 조정 */
+    color: #003366; /* 제목의 글자 색상 지정 */
+    margin: 0; /* 마진 제거 */
+  }
+  .metadata {
+    font-size: 0.9em; /* 메타데이터 글자 크기 조정 */
+    color: #555; /* 메타데이터 글자 색상 지정 */
+    margin: 0; /* 마진 제거 */
+  }
+  .metadata span {
+    margin-right: 10px; /* 메타데이터 아이템 간 간격 조정 */
+  }
+  .content {
+    font-size: 0.9em;
+    line-height: 1.6; /* 본문의 행간 조정 */
+  }
+  /* 기존 스타일 지속 사용 */
+</style>
