@@ -21,7 +21,7 @@ I firmly believe that the future of AI should not only focus on single modality 
 This conviction is why I am deeply interested in multi-modal research, exploring how these diverse data dimensions can synergistically enhance the power of AI to tackle real-world scenarios. 
 Additionally, I am intrigued by parameter-efficient learning, recognizing its critical role in developing more scalable, sustainable, and secure AI models.
 
-If you want to know more about me, please check my [**CV**](../files/HongyeobKim_CV.pdf) / [<img src="https://img.shields.io/badge/LinkedIn-003366?style=flat-square&amp;logo=LinkedIn&amp;logoColor=white"/>](https://www.linkedin.com/in/hongyeob-kim-255547213/) / [<img src="https://img.shields.io/badge/Github-181717?style=flat-square&amp;logo=Github&amp;logoColor=white"/>](https://github.com/redleaf-kim/)
+If you want to know more about me, please check my [<img src="https://img.shields.io/badge/CV-47A141?style=flat-square&amp;logo=Overleaf&amp;logoColor=white"/>](https://www.overleaf.com/read/vhmzscnsjgfc#a2fcbc) / [<img src="https://img.shields.io/badge/LinkedIn-003366?style=flat-square&amp;logo=LinkedIn&amp;logoColor=white"/>](https://www.linkedin.com/in/hongyeob-kim-255547213/) / [<img src="https://img.shields.io/badge/Github-181717?style=flat-square&amp;logo=Github&amp;logoColor=white"/>](https://github.com/redleaf-kim/)
 
 
 
